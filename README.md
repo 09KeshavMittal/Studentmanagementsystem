@@ -6,7 +6,7 @@
 
 ### Homepage
 
-![homepage snap](https://github.com/09KeshavMittal/schoolmanagement-master_python/blob/main/static/screenshots/homepage.jpg)
+![homepage snap](https://github.com/09KeshavMittal/schoolmanagement-master_python/blob/main/static/screenshots/homepage.jpeg)
 
 ### Admin Dashboard
 
