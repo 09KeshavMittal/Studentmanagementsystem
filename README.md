@@ -1,12 +1,12 @@
 # Schoolmanagement
 
-## ![developer](https://img.shields.io/badge/Developed%20By%20%3A-Sumit%20Kumar-red)
+## ![developer](https://img.shields.io/badge/Developed%20By%20%3A-Keshav%20Mittal-red)
 
 ## screenshots
 
 ### Homepage
 
-![homepage snap](https://github.com/sumitkumar1503/schoolmanagement/blob/master/static/screenshots/homepage.png?raw=true)
+![homepage snap](https://github.com/09KeshavMittal/schoolmanagement-master_python/blob/main/static/screenshots/homepage.jpg)
 
 ### Admin Dashboard
 
